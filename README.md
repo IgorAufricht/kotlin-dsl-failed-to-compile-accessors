@@ -16,3 +16,4 @@ Failed to compile accessors.
 
 ```
 
+Reproduction repo for https://github.com/gradle/kotlin-dsl-samples/issues/1051 
